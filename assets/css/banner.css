@@ -1,0 +1,39 @@
+.contenedor_banner{
+  
+    background: linear-gradient(#000046, #1cb5e0);   
+  
+    color: white;
+    padding: 6rem 1rem;
+    margin: 4rem;
+    font-size: 100px;
+}
+ 
+.texto-encima{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+.centrado_banner{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #313a46 !important;
+    font-size: 50px;
+    text-transform: uppercase;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 600;
+    letter-spacing: 1px;
+    line-height: 70px;
+    filter: drop-shadow(1px 1px 10px rgba(214 255 201 / 80%));
+    -webkit-text-fill-color:white;
+}
+.img_banner{
+    position: absolute;
+    top: 50%;
+    left: 17%;
+    width: 300px;
+    height: 150px;
+    transform: translate(-10%, -50%);
+
+}

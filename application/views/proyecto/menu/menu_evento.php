@@ -1,0 +1,10 @@
+<li id="datosprincipales" class="active"><a id="datosprincipales2"  data-toggle="tab" href="#home" > <img style="width:40px; height:40px;" src="<?php echo base_url("assets/images/icons/principal.jpg"); ?>" >Datos Principales</a></li>
+<li id="delito"><a id="delito" data-color="#e7663f" data-toggle="tab"    href="#menu10"> <img style="width:40px; height:40px;" src="<?php echo base_url("assets/images/icons/esposas.png"); ?>" >Delito</a></li>    
+<li id="encargados"><a id="encargados2" data-color="#e7663f" data-toggle="tab"    href="#menu1"> <img style="width:40px; height:40px;" src="<?php echo base_url("assets/images/icons/persona.jpg"); ?>" >Encargados</a></li>              
+<li><a id="menupersona" class="nav-link" data-toggle="tab"   href="#menu2" ><img style="width:40px; height:40px;" src="<?php echo base_url("assets/images/icons/persona.png"); ?>" >Personas</a></li>
+<li><a id="menuvehiculos" class="nav-link" data-toggle="tab"   href="#menu3" ><img style="width:40px; height:40px;" src="<?php echo base_url("assets/images/icons/vehiculo.jpg"); ?>" >Vehículos</a></li>
+<li><a id="menuespecies" class="nav-link" data-toggle="tab"   href="#menu4" ><img style="width:40px; height:40px;" src="<?php echo base_url("assets/images/icons/especies.png"); ?>" >Especies</a></li>
+<li><a id="menuarmas" class="nav-link" data-toggle="tab"   href="#menu5" ><img style="width:40px; height:40px;" src="<?php echo base_url("assets/images/icons/armas.png"); ?>" >Armas</a></li>
+<li><a id="menudrogas" class="nav-link" data-toggle="tab"   href="#menu6" ><img style="width:40px; height:40px;" src="<?php echo base_url("assets/images/icons/drogas.png"); ?>" >Drogas</a></li>
+<li><a id="menuperito" class="nav-link" data-toggle="tab"   href="#menu7" ><img style="width:40px; height:40px;" src="<?php echo base_url("assets/images/icons/detective.png"); ?>" >Perito</a></li>
+<li><a id="menuterminar" class="nav-link " data-toggle="tab"   href="#menu8" ><img style="width:40px; height:40px;" src="<?php echo base_url("assets/images/icons/terminar.png"); ?>" >Terminar</a></li>
